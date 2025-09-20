@@ -1,4 +1,4 @@
-# Bike Fall Detection System
+# Bike Fall Detection
 
 ## Overview
 This project implements a **Bike Fall and Hit Detection System** using an **ESP32 with an IMU sensor** for data collection and a **Seeed Studio XIAO nRF52840** board for real-time detection.  
